@@ -3,8 +3,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package pe.edu.uni.cc.fc.substitucion;
-
-import static pe.edu.uni.cc.fc.substitucion.Constants.ALPHABET_SET_SIZE;
+//import static pe.edu.uni.cc.fc.substitucion.Constants.ALPHABET_SET_SIZE;
+import static pe.edu.uni.cc.fc.common.Constants.ALPHABET_SET_SIZE;
 
 
 
